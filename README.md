@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ervin Erviansyah</h1>
-<h3 align="center">A Graphic Designer, Writer, and Actor from Bandung</h3>
+<h3 align="center">A Graphic Designer, Author, and Actor from Bandung</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ervinerviansyah&label=Profile%20views&color=0e75b6&style=flat" alt="ervinerviansyah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ervinerviansyah" alt="ervinerviansyah" /></a> </p>
 
-- 🌱 I’m currently learning **Nix, C++, Js**
+- 🌱 I’m currently learning **Js, Tailwind, and MERN Stack (MongoDB, ExpressJs, React, and NodeJs)**
 
 - 💬 Ask me about **design, story, or animate**
 
