@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ervinerviansyah" alt="ervinerviansyah" /></a> </p>
 
-- 🌱 I’m currently learning **Js, Tailwind, and MERN Stack (MongoDB, ExpressJs, React, and NodeJs)**
+- 🌱 I’m currently learning **Js, Rust, and MERN Stack (MongoDB, ExpressJs, React, and NodeJs)**
 
 - 💬 Ask me about **design, story, or animate**
 
