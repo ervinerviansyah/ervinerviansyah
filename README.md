@@ -2,7 +2,7 @@
 
 ## A Graphic Designer, Author, and Actor from Bandung
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ervinerviansyah&label=Profile views&color=0e75b6&style=flat" alt="ervinerviansyah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ervinerviansyah&label=Profile%20views&color=0e75b6&style=flat" alt="ervinerviansyah" /> </p>
 
 - 🔭 I'm currently working on **my personal website project, which serves as both a portfolio and a blog.**
 
