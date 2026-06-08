@@ -14,13 +14,13 @@
 
 - 💬 Ask me about **Linux, graphic design, writing, acting, or anything else.**
 
-- 📫 How to reach me **work@ervinerviansyah.my.id**
+- 📫 How to reach me: **work@ervinerviansyah.my.id**
 
-- 👨‍💻 All of my projects are available at **[https://ervinerviansyah.my.id/public/html/navigation/portfolio.html](https://ervinerviansyah.my.id/public/html/navigation/portfolio.html)**
+- 👨‍💻 All of my projects are available on **[my portfolio](https://ervinerviansyah.my.id/public/html/navigation/portfolio.html)**.
 
-- 📝 I regularly write articles on **[https://ervinerviansyah.my.id/public/html/navigation/blog.html](https://ervinerviansyah.my.id/public/html/navigation/blog.html)**
+- 📝 I regularly write articles on **[my blog](https://ervinerviansyah.my.id/public/html/navigation/blog.html)**.
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1BqlactMhDhV8Oe3AhbBOynXLvB0aIm79/view?usp=sharing](https://drive.google.com/file/d/1BqlactMhDhV8Oe3AhbBOynXLvB0aIm79/view?usp=sharing)**
+- 📄 Read about my experiences in **[my CV](https://drive.google.com/file/d/1BqlactMhDhV8Oe3AhbBOynXLvB0aIm79/view?usp=sharing)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
